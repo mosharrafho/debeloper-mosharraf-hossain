@@ -14,9 +14,12 @@ h1{
 }
 section{
     display: flex;
+margin-bottom: 100px;
+
+
 }
 .half-width{
-    width: 50%;
+    width: 60%;
     padding-left: 5%;
 }
 .text-edit{
@@ -30,8 +33,22 @@ font-weight: 900;
 
 
 
+
+
+
+
 }
-.top-baton{
-    background-image: url(image/top-banner.png);
-    background-repeat: no-repeat;
-}
+
+
+.top-battom{
+    background-image: url(image/top-banner.png); background-repeat: no-repeat;}
+    
+    
+    
+    .dream-big{
+
+
+        background-image: url(image/dream-bg.png);
+        background-repeat: no-repeat;
+       background-position:right ;
+    }
