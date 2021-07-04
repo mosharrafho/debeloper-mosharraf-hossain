@@ -12,7 +12,7 @@ h1{
 
     color: darkorange;
 }
-section{
+.flexible{
     display: flex;
 margin-bottom: 100px;
 
@@ -52,3 +52,18 @@ font-weight: 900;
         background-repeat: no-repeat;
        background-position:right ;
     }
+    .colorlal{
+
+        color: rgb(243, 161, 9);
+    }
+    .exxitem{
+margin-left: 8%;
+margin-right: 3%;
+padding-right: 20%;
+
+        box-shadow: 10px 10px 40px;
+        width:40%
+    }
+    
+       
+    
