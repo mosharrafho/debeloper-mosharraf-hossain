@@ -8,6 +8,11 @@ h1{
 
     font-size: 50px;
 }
+
+h2{
+
+    font-size: 900;
+}
 .color{
 
     color: darkorange;
@@ -21,6 +26,8 @@ margin-bottom: 100px;
 .half-width{
     width: 60%;
     padding-left: 5%;
+
+
 }
 .text-edit{
 text-decoration: none;
@@ -56,14 +63,51 @@ font-weight: 900;
 
         color: rgb(243, 161, 9);
     }
+
+.experience-area{
+
+background-image: url(./image/exp-bg.png);
+background-repeat: no-repeat;
+background-position:left;
+
+}
+
+
+
     .exxitem{
 margin-left: 8%;
 margin-right: 3%;
 padding-right: 20%;
+box-shadow: 10px 10px 40px gray;
+width:30%;
+border-radius: 10px;
 
-        box-shadow: 10px 10px 40px;
-        width:40%
     }
+#web-dev-exper{
+  
+    border-image:linear-gradient(blue,cyan);
+    border-left: 8px solid;
+    border-image-slice: 1;
+
+}
+#full-stak-web{
+    border-image:linear-gradient(rgb(255, 251, 0),rgb(0, 255, 13));
+    border-left: 8px solid;
+    border-image-slice: 1;
+
+
+}
+footer p{
+
+    text-align: center;
+    background-color: rgb(202, 51, 152);
+    margin-right:35%;
+    margin-left: 35%;
+    font-weight: 900;
+border-radius: 10px;
+    
+
+}
     
        
     
